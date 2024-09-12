@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  user_pois: 
+  user_inventories: 
+  user_coordinates: 
+  inventory_geojson_url: MyString
+  urls_up_to_date: false
+  poi_geojson_url: MyString
+  gallery_code: MyString
+  status: 1
+  code: MyString
+  start_date: 2024-09-12
+  end_date: 2024-09-12
+  deleted_at: 2024-09-12 11:49:02
+  measurement_requested: false
+
+two:
+  name: MyString
+  user_pois: 
+  user_inventories: 
+  user_coordinates: 
+  inventory_geojson_url: MyString
+  urls_up_to_date: false
+  poi_geojson_url: MyString
+  gallery_code: MyString
+  status: 1
+  code: MyString
+  start_date: 2024-09-12
+  end_date: 2024-09-12
+  deleted_at: 2024-09-12 11:49:02
+  measurement_requested: false

@@ -1,0 +1,71 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  line_item: one
+  programmatic_platform_id: 1
+  slot_dimension_id: 1
+  network_id: 1
+  integration_type_id: 1
+  ad_format_id: 1
+  aspect_ratio_id: 1
+  file_format_id: 1
+  restricted_iab_category_id: 1
+  names: MyString
+  geography_ids: 
+  geography_layer: MyString
+  postal_code_category_ids: 
+  county_category_ids: 
+  dma_category_ids: 
+  region_category_ids: 
+  supports_cannabis: false
+  supports_audio: false
+  supports_video: false
+  supports_banner: false
+  status: MyString
+  geometry_geojson: 
+  user_id: 
+  organization_id: 
+  inventory_category_ids: 1
+  inventory_scoring_strategy: 1
+  query_inventory_ids: 1
+  exclude_preferred_ad_format_id: false
+  preferred_ad_format_id: 1
+  programmatic_platform_keys: MyString
+  supports_dynamic_creative: false
+
+two:
+  name: MyString
+  description: MyText
+  line_item: two
+  programmatic_platform_id: 1
+  slot_dimension_id: 1
+  network_id: 1
+  integration_type_id: 1
+  ad_format_id: 1
+  aspect_ratio_id: 1
+  file_format_id: 1
+  restricted_iab_category_id: 1
+  names: MyString
+  geography_ids: 
+  geography_layer: MyString
+  postal_code_category_ids: 
+  county_category_ids: 
+  dma_category_ids: 
+  region_category_ids: 
+  supports_cannabis: false
+  supports_audio: false
+  supports_video: false
+  supports_banner: false
+  status: MyString
+  geometry_geojson: 
+  user_id: 
+  organization_id: 
+  inventory_category_ids: 1
+  inventory_scoring_strategy: 1
+  query_inventory_ids: 1
+  exclude_preferred_ad_format_id: false
+  preferred_ad_format_id: 1
+  programmatic_platform_keys: MyString
+  supports_dynamic_creative: false
