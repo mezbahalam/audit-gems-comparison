@@ -67,3 +67,5 @@ end_time = Time.now
 elapsed_time = end_time - start_time
 
 puts "Seeding completed in #{Time.at(elapsed_time).utc.strftime("%H:%M:%S")}"
+
+
