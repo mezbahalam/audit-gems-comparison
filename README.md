@@ -203,16 +203,6 @@ Writing custom PostgreSQL triggers to log changes into audit tables.
 - **Benchmarking**: Measure performance impacts under realistic workloads.
 - **Data Migration**: Plan for how existing data will be handled.
 
-## Additional Resources
-
-- **Blog Posts and Tutorials**:
-  - “Versioning with PaperTrail in Rails” - Explains how to implement and use PaperTrail.
-  - “Auditing Your Rails Models with Audited” - A guide on setting up Audited in a Rails app.
-  - “Using Logidze for Database-Level Auditing” - Discusses the benefits and setup of Logidze.
-
-- **YouTube Videos**:
-  - “RailsConf Talk: Advanced Auditing Techniques” - Covers advanced topics in model auditing.
-  - “PaperTrail Gem Tutorial” - A step-by-step guide on using PaperTrail.
 
 ## Conclusion
 
